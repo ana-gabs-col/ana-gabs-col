@@ -1,8 +1,11 @@
 # 📊 Data Analyst Portfolio | Ana Gabriela Castro  
 
 ## 👋 Sobre mí  
-Me considero apasionada por el análisis de datos con formación en **Economía e Ingeniería Industrial**. 
-Me especializo en transformar datos en insights accionables usando **SQL, Python, R, Stata y herramientas de visualización** para optimizar la toma de decisiones empresariales.  
+Estudiante de **Ingeniería Industrial y Economía ** en la Universidad de los Andes, con gran interés en la analítica de datos y la toma de decisiones basada en datos. Me especializo en el análisis cuantitativo para la optimización de procesos, el desarrollo de modelos predictivos y la generación de insights estratégicos para el crecimiento empresarial.
+
+Cuento con habilidades en SQL, Python (Pandas, NumPy, Scikit-Learn), Power BI y Tableau, con experiencia en la manipulación, limpieza y visualización de datos. Además, tengo conocimientos en análisis econométrico, simulación de eventos discretos (SIMIO) y desarrollo de aplicaciones con IA aplicados a la optimización de negocios y procesos industriales.
+
+Busco oportunidades para desarrollar soluciones basadas en datos que impacten la eficiencia operativa y la toma de decisiones estratégicas. 
 
 ## 🛠️ Habilidades  
 ✅ **Análisis y limpieza de datos** (Pandas, NumPy,Scikit-learn)  
