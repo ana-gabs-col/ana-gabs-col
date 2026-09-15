@@ -1,9 +1,14 @@
 # Ana Gabriela Castro Amaya
-**Junior Data Analyst / Analytics** • R / Python / Stata • Tableau / Power BI • APIs & Web Scraping • Applied ML 
+**Data & Business Analytics | Finance, Risk & Operations** • R / Python / Stata • Tableau / Power BI • APIs & Web Scraping • Applied ML 
 
-I build reproducible analytics workflows end-to-end: data acquisition (APIs + scraping), cleaning/QA, analysis/modeling, and stakeholder-ready outputs (dashboards, short memos, and documentation).
+Industrial engineer and economist with 19 months of experience in business operations and analytics and one year of machine-learning research. I use data, statistical modeling, and business intelligence to solve financial, risk, and operational problems.
+Helped reduce inventory costs by 50% through improved data workflows
+Built a bankruptcy-risk model with approximately 0.89 validation AUC
+Analyzed and documented 10,000+ higher-education records
+Completed an honors thesis on dynamic portfolio construction using unsupervised machine learning and historical backtesting
+Open to Data Analyst, BI Analyst, Financial/Risk Analyst, Business Analyst, and Operations Analyst opportunities in Bogotá or remotely across LATAM.
 
-**Open to:** Junior Data Analyst / Analytics roles focused on data quality, BI reporting, and applied modeling.
+**Open to:** Business Analyst / Data Analyst / Financial Analyst / Credit Risk Analyst / Operations Analyst / Analytics roles focused on data quality, BI reporting, and applied modeling. Full-time & Contract. Bogotá/Colombia & Remote. Available immediately.
 
 ---
 
