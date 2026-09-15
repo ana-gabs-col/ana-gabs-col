@@ -1,5 +1,5 @@
 # Ana Gabriela Castro Amaya
-**Junior Data Analyst / Analytics** • R / Python / Stata • Tableau / Power BI • APIs & Web Scraping • Applied ML (when needed)
+**Junior Data Analyst / Analytics** • R / Python / Stata • Tableau / Power BI • APIs & Web Scraping • Applied ML 
 
 I build reproducible analytics workflows end-to-end: data acquisition (APIs + scraping), cleaning/QA, analysis/modeling, and stakeholder-ready outputs (dashboards, short memos, and documentation).
 
@@ -11,7 +11,7 @@ I build reproducible analytics workflows end-to-end: data acquisition (APIs + sc
 > Repos are being packaged as **public, README-first projects** with figures, outputs, and data dictionaries.
 
 - **Bankruptcy Risk Modeling (R)** — robust preprocessing + SMOTE; AUC-ROC model comparison.  
-  **Key result:** Validation AUC ~0.89 • **Repo:** `bankruptcy-risk-modeling-r` (coming this week)
+  **Key result:** Validation AUC ~0.89 • **Repo:** `bankruptcy-risk-modeling-r` 
 
 - **Thesis Data Collection Pipeline (Python)** — REST API + web scraping + validation rules; schema + data dictionary.  
   **Repo:** `thesis-data-collection-pipeline` (sources/data not shared for confidentiality)
@@ -28,14 +28,14 @@ I build reproducible analytics workflows end-to-end: data acquisition (APIs + sc
 ---
 
 ## Core Skills
-- **Programing Languages:** R, Python, Stata, SQL.   
+- **Programming Languages:** R, Python, Stata, SQL.   
 - **BI & Visualization:** Tableau, Power BI; ggplot2; matplotlib/plotly  
 - **Data Collection:** REST APIs, web scraping (BeautifulSoup/Selenium)  
 - **Data Wrangling & QA:** validation rules, outlier treatment, scaling/normalization, documentation (data dictionaries)  
 - **ML (applied):** Logistic Regression, SVM (RBF), Random Forest, Gradient Boosting, XGBoost, Keras  
 - **Evaluation:** AUC-ROC, confusion matrix, cross-validation  
 - **Tools:** Git, GitHub (portfolio-first workflow)
-- **Languages:** English (TOEFL-C1), Spanish (Mother Language), Italian (A2), Japanese (N4). 
+- **Languages:** English — TOEFL iBT 105/120 (2020), Spanish (Mother Language), Italian (A2), Japanese (N4). 
   
 ---
 
