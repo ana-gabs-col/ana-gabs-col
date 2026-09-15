@@ -35,7 +35,7 @@ I build reproducible analytics workflows end-to-end: data acquisition (APIs + sc
 - **ML (applied):** Logistic Regression, SVM (RBF), Random Forest, Gradient Boosting, XGBoost, Keras  
 - **Evaluation:** AUC-ROC, confusion matrix, cross-validation  
 - **Tools:** Git, GitHub (portfolio-first workflow)
-- **Languages:** English (TOEFL-C1), Spanish (Mother Language), Italian (B1), Japanese (N5). 
+- **Languages:** English (TOEFL-C1), Spanish (Mother Language), Italian (A2), Japanese (N4). 
   
 ---
 
