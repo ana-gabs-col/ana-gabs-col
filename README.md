@@ -19,7 +19,12 @@ Open to Data Analyst, BI Analyst, Financial/Risk Analyst, Business Analyst, and 
   **Key result:** Validation AUC ~0.89 • **Repo:** `bankruptcy-risk-modeling-r` 
 
 - **Thesis Data Collection Pipeline (Python)** — REST API + web scraping + validation rules; schema + data dictionary.  
-  **Repo:** `thesis-data-collection-pipeline` (sources/data not shared for confidentiality)
+  **Repo:** `thesis-data-collection-pipeline` (sources/data not shared for confidentiality). This thesis project was co-authored by Ana Gabriela Castro and Tomás Andrés Arias. It investigates whether a hybrid LSTM-FinBERT system can support active portfolio allocation across 50 S&P 500 stocks.
+
+The workflow combines return forecasting, financial-sentiment classification, a 70/30 quantitative-sentiment signal, and weekly mean-variance optimization.
+
+In the historical evaluation, the simulated portfolio returned 34.2% versus 39.4% for the S&P 500 and produced negative risk-adjusted metrics. The results did not validate outperformance. The project therefore focuses on the system’s methodology, reproducible workflow, limitations, and opportunities to improve data coverage and risk controls.
+
 
 - **Stata Econometrics Portfolio** — causal inference projects (ATE/IV/LATE), randomization inference, LPM/Logit/Probit + marginal effects.  
   **Repo:** `stata-econometrics-portfolio`
